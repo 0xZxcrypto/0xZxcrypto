@@ -1,3 +1,15 @@
+.github/workflows
+
+
+pacman.yml
+
+
+README.md
+
+Your Readme is Done 🎉🎉🎉
+Star This Project
+Fork on Github
+
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
@@ -36,21 +48,45 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xZxcrypto &hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xZxcrypto &locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=0xZxcrypto &locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=0xZxcrypto &theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xZxcrypto /0xZxcrypto /output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xZxcrypto /0xZxcrypto /output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/0xZxcrypto /0xZxcrypto /output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
+Github
+Donate
+Share
+Privacy Policy
+Copy File Content
+
+Level Up Your README
+Anyone can use templates — but when you know what you’re doing, it shows.
+
+👉 Explore resources that will upgrade your skills — and your README. Start now.
+
+
+Clean Code
+A Handbook of Agile Software Craftsmanship by Uncle Bob.
+
+Get the book
+
+Clean Architecture
+Software Architecture Solutions from Uncle Bob.
+
+Get the book
+
+Explore More Books
+Browse the full list of curated titles to boost your coding skills.
+
+More books
+💡 This panel contains affiliate links. If you find something useful and make a purchase, I may earn a small commission ☕. Thanks for the support ❤
+Profile Readme Generator
